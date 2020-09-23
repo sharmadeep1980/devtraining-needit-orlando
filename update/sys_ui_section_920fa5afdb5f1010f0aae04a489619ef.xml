@@ -1,70 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="" section_id="9346679fdb1b1010f0aae04a4896193b" sys_domain="global" table="x_58872_needit_needit" version="3" view="">
+    <sys_ui_section caption="Statistics" section_id="920fa5afdb5f1010f0aae04a489619ef" sys_domain="global" table="x_58872_needit_needit" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
+            <element>opened_at</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-09-23 01:37:32</sys_created_on>
-            <sys_id>9a0fe5afdb5f1010f0aae04a48961902</sys_id>
+            <sys_id>660fe5afdb5f1010f0aae04a48961913</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="Default view">9346679fdb1b1010f0aae04a4896193b</sys_ui_section>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_58872_needit_needit" sys_domain="global" view="Default view">920fa5afdb5f1010f0aae04a489619ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2020-09-23 01:37:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_requested_for</element>
+            <element>sys_updated_on</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-09-23 01:37:32</sys_created_on>
-            <sys_id>1e0fe5afdb5f1010f0aae04a48961902</sys_id>
+            <sys_id>e60fe5afdb5f1010f0aae04a48961913</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="Default view">9346679fdb1b1010f0aae04a4896193b</sys_ui_section>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_58872_needit_needit" sys_domain="global" view="Default view">920fa5afdb5f1010f0aae04a489619ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2020-09-23 01:37:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_request_type</element>
+            <element>sys_created_on</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-09-23 01:37:32</sys_created_on>
-            <sys_id>9e0fe5afdb5f1010f0aae04a48961902</sys_id>
+            <sys_id>6a0fe5afdb5f1010f0aae04a48961913</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="Default view">9346679fdb1b1010f0aae04a4896193b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-09-23 01:37:32</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_when_needed</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-09-23 01:37:32</sys_created_on>
-            <sys_id>120fe5afdb5f1010f0aae04a48961903</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="Default view">9346679fdb1b1010f0aae04a4896193b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-09-23 01:37:32</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_what_needed</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-09-23 01:37:32</sys_created_on>
-            <sys_id>920fe5afdb5f1010f0aae04a48961903</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="Default view">9346679fdb1b1010f0aae04a4896193b</sys_ui_section>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_58872_needit_needit" sys_domain="global" view="Default view">920fa5afdb5f1010f0aae04a489619ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2020-09-23 01:37:32</sys_updated_on>
             <sys_user/>
@@ -72,68 +44,96 @@
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>5</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-09-23 01:37:32</sys_created_on>
-            <sys_id>160fe5afdb5f1010f0aae04a48961903</sys_id>
+            <sys_id>ea0fe5afdb5f1010f0aae04a48961913</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="Default view">9346679fdb1b1010f0aae04a4896193b</sys_ui_section>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_58872_needit_needit" sys_domain="global" view="Default view">920fa5afdb5f1010f0aae04a489619ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2020-09-23 01:37:32</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>priority</element>
-            <position>6</position>
+            <element>opened_by</element>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-09-23 01:37:32</sys_created_on>
-            <sys_id>960fe5afdb5f1010f0aae04a48961903</sys_id>
+            <sys_id>6e0fe5afdb5f1010f0aae04a48961913</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="Default view">9346679fdb1b1010f0aae04a4896193b</sys_ui_section>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_58872_needit_needit" sys_domain="global" view="Default view">920fa5afdb5f1010f0aae04a489619ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2020-09-23 01:37:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>state</element>
+            <element>sys_updated_by</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-23 01:37:32</sys_created_on>
+            <sys_id>ee0fe5afdb5f1010f0aae04a48961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_58872_needit_needit" sys_domain="global" view="Default view">920fa5afdb5f1010f0aae04a489619ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-23 01:37:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-23 01:37:32</sys_created_on>
+            <sys_id>620fe5afdb5f1010f0aae04a48961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_58872_needit_needit" sys_domain="global" view="Default view">920fa5afdb5f1010f0aae04a489619ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-23 01:37:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-09-23 01:37:32</sys_created_on>
-            <sys_id>1a0fe5afdb5f1010f0aae04a48961903</sys_id>
+            <sys_id>e20fe5afdb5f1010f0aae04a48961914</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="Default view">9346679fdb1b1010f0aae04a4896193b</sys_ui_section>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_58872_needit_needit" sys_domain="global" view="Default view">920fa5afdb5f1010f0aae04a489619ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2020-09-23 01:37:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
-            <caption/>
+            <caption>Statistics</caption>
             <header>false</header>
             <name>x_58872_needit_needit</name>
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-09-22 15:40:07</sys_created_on>
+            <sys_created_on>2020-09-23 01:37:32</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>9346679fdb1b1010f0aae04a4896193b</sys_id>
+            <sys_id>920fa5afdb5f1010f0aae04a489619ef</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>x_58872_needit_needit</sys_name>
+            <sys_name>Statistics</sys_name>
             <sys_overrides/>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
             <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-            <sys_update_name>sys_ui_section_9346679fdb1b1010f0aae04a4896193b</sys_update_name>
+            <sys_update_name>sys_ui_section_920fa5afdb5f1010f0aae04a489619ef</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-09-22 15:40:07</sys_updated_on>
+            <sys_updated_on>2020-09-23 01:37:32</sys_updated_on>
             <sys_user/>
-            <title>true</title>
+            <title>false</title>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_section>
